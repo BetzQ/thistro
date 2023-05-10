@@ -1,0 +1,13 @@
+.hero_option {
+    transition: 0.2s;
+}
+.hero_option .row .col-lg-3 a img {
+    width: 100%;
+}
+.hero_option .row .col-lg-3 a {
+    font-family: Comic Sans, Comic Sans MS, cursive;;
+    transition: .4s;
+}
+.hero_option .row .col-lg-3 a:hover {
+   border: 1px solid greenyellow !important;
+}

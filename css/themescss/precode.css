@@ -1,0 +1,11 @@
+pre {
+    overflow:auto;
+    
+    white-space:pre-wrap;
+    width: 90%;
+    height: 400px;
+    background-color: var(--bs-dark-text);
+}
+code {
+    overflow-y: scroll;
+}

@@ -1,0 +1,6 @@
+.footer p {
+    font-size: 24px;
+    background: -webkit-linear-gradient(#00f1ff, #009199);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

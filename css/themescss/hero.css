@@ -1,0 +1,20 @@
+.hero_option {
+    transition: 0.2s;
+}
+.hero_option .row .col button {
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    transition: .4s;
+}
+.hero_option .row .col button:hover {
+   border: 1px solid greenyellow !important;
+}
+iframe {
+  opacity: 0;
+    transition: 0.5s;
+    }
+@media (max-width: 767.98px) { 
+    iframe {
+        width: 100% !important;
+        height: 650px !important;
+    }
+}

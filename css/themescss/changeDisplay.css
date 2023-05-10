@@ -1,0 +1,22 @@
+.changeDisplay {
+    transition: .5s;
+}
+.changeDisplay div {
+    margin-top: 5px;
+  margin-right: 20px;
+}
+.changeDisplay div:nth-child(3) {
+    margin-bottom: 5px;
+}
+.changeDisplay div i {
+    opacity: 0.4;
+    font-size: 35px;
+    transition: .3s;
+}
+.changeDisplay div i:hover {
+    opacity: 1;
+}
+.changeDisplay div:nth-child(3) i {
+    margin-left: 3px;
+    font-size: 30px;
+}
